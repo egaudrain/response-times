@@ -4,4 +4,4 @@ This is a technical report on how to measure psychophysical response times. You'
 
 The example code comes along.
 
-If you have comments, or want to add something to the report, contact me, of make a pull request.
+If you have comments, or want to add something to the report, contact me, or make a pull request.
